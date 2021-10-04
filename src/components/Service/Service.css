@@ -1,0 +1,17 @@
+
+.service-cards{
+    height: 100%;
+}
+.service-img{
+    height: 276px;
+    width: 100%;
+}
+.service-btn{
+    margin: 10px;
+    padding: 5px 25px;
+    border-radius: 9px;
+    border: 1px solid gray;
+}
+.prices{
+    color: indianred;
+}

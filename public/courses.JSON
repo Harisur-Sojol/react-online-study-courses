@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Department of Mechanical Engineering",
+        "price": 100,
+        "image": "https://www.ualberta.ca/engineering/media-library/dept-mechanical-engineering/landingpage/landing-cap-research.jpg",
+        "id": 1
+
+    },
+    {
+        "name": "Department of Civil Engineering",
+        "price": 110,
+        "image": "https://previews.123rf.com/images/stocking/stocking1209/stocking120900768/15444806-portrait-of-an-engineer-at-work.jpg",
+        "id": 2
+
+    },
+    {
+        "name": "Department of Electrical & Electronic Engineering",
+        "price": 120,
+        "image": "https://www.indiaeducation.net/imagesvr_ce/8178/banner_ee.jpg",
+        "id": 3
+
+    },
+    {
+        "name": "Department of Biomedical Engineering",
+        "price": 150,
+        "image": "https://www.usnews.com/dims4/USNEWS/14dcd42/2147483647/crop/2000x1313%2B0%2B0/resize/640x420/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F35%2F58%2F8ac9edf44a679eb1c0d61e107877%2F191223-biomedicalengineering-stock.jpg",
+        "id": 4
+    
+    },
+    {
+        "name": "Bachelor of Science in Biochemistry",
+        "price": 150,
+        "image": "https://www.kolabtree.com/blog/wp-content/uploads/2020/08/biochemistry-consultant-626x336.jpg",
+        "id": 11
+
+    },
+    {
+        "name": "Chartered Accountancy",
+        "price": 110,
+        "image": "https://forum-financement.com/wp-content/uploads/2019/07/Cs-of-Choosing-An-Accountant-833x474.jpg",
+        "id": 12
+
+    },
+    {
+        "name": "Web Design And Development",
+        "price": 120,
+        "image": "https://www.nwtc.edu/getattachment/471f47f2-0d6c-4288-8468-b64adc82c2c8/Web-Development_101522.jpg",
+        "id": 13
+
+    },
+    {
+        "name": "Computer Science And Engineering",
+        "price": 150,
+        "image": "https://www.usnews.com/dims4/USNEWS/a6de483/2147483647/thumbnail/970x647/quality/85/?url=http%3A%2F%2Fmedia.beam.usnews.com%2F3a%2F21%2F338ee76746d1876c3fbeb43be04c%2F190502-computerprogrammer-stock.jpg",
+        "id": 14
+
+    },
+    {
+        "name": "B.A. in Fashion Design",
+        "price": 150,
+        "image": "https://www.memphis.edu/art/images/fashion-design-1.jpg",
+        "id": 14
+
+    },
+    {
+        "name": "Bachelor of Hotel Management & Tourism",
+        "price": 150,
+        "image": "https://www.hospitality-school.com/wp-content/uploads/2011/11/hospitality-study-usa.jpg",
+        "id": 14
+
+    },
+    {
+        "name": "BA English Literature and Philosophy",
+        "price": 150,
+        "image": "https://www.roehampton.ac.uk/globalassets/images/course-images/undergraduate/resized-for-new-page-soe-and-sohss/english-literature-and-philosophy.jpg",
+        "id": 14
+
+    },
+    {
+        "name": "Bachelor of Law",
+        "price": 150,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUhqDaK1FJufsTxkY0BrcO00un4xjIPAKO77MjBEGfQazlZ6YLM6sNKA6QUPpcUVUfRM&usqp=CAU",
+        "id": 14
+
+    }
+]

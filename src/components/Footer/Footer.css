@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(88, 80, 80);
+    padding-left: 50px;
+}
+.footer-useFull-links{
+    list-style: none;
+    font-weight: 600;
+    color: white;
+}
+.footer-useFull-links li:hover{
+    color: rgb(207, 221, 15);
+}
+.footer-info:hover{
+    color: indianred;
+}
+.study-info:hover{
+    color: rgb(207, 221, 15);
+}

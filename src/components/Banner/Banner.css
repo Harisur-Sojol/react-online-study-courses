@@ -1,0 +1,13 @@
+#banner{
+    background-image: url('https://static.ca-news.org/upload/ennews/0/625750.1569304348.b.jpg'),linear-gradient(rgba(94, 67, 67, 0.5), rgba(27, 14, 14, 0.5));;
+    height: 80vh;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.title{
+    color: rgb(255, 255, 255);
+}
