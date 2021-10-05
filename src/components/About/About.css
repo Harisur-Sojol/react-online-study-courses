@@ -21,9 +21,7 @@ h1{
     border: 2px solid #fdc800;
     color: #002147;
 }
-.feedback-title{
-    color: rgb(34, 134, 34);
-}
+
 .learn-now-btn{
     background-color: #002147;
     border: 2px solid #002147;
@@ -39,4 +37,19 @@ h1{
     background-color: #fdc800;
     border: 2px solid #fdc800;
     color: #002147;
+}
+h3{
+    color: #002147;
+}
+.feedback-img{
+    height: 400px;
+}
+.info-area{
+    background-image: url('../../images/info-area.webp');
+    background-position: center center;
+    background-size: cover;
+    height: 150px;
+}
+.info-area-title:hover{
+    color: #fdc800;
 }

@@ -1,6 +1,6 @@
 .footer{
-    background-color: rgb(88, 80, 80);
-    padding-left: 50px;
+    background-color: #002147;
+    
 }
 .footer-useFull-links{
     list-style: none;
@@ -8,11 +8,23 @@
     color: white;
 }
 .footer-useFull-links li:hover{
-    color: rgb(207, 221, 15);
+    color: #fdc800;
 }
 .footer-info:hover{
     color: indianred;
 }
 .study-info:hover{
-    color: rgb(207, 221, 15);
+    color: #fdc800;
+}
+.fa-facebook{
+    padding-right: 5px;
+}
+.fa-instagram{
+    padding-right: 5px;
+}
+.fa-wikipedia-w{
+    padding-right: 5px;
+}
+.fa-google-plus-g{
+    padding-right: 6px;
 }

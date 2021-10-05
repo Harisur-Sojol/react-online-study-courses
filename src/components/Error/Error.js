@@ -7,6 +7,9 @@ const Error = () => {
             <h2>Error 404</h2>
             <h2 className="">The page You are Looking for is Unavailable!!!</h2>
             <p style={{fontSize: "25px"}} className='text-info'>Try Again</p>
+            <br />
+            <i className="fas fa-exclamation-triangle"></i>
+
         </div>
     );
 };

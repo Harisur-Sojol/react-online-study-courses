@@ -9,8 +9,14 @@ const Footer = () => {
                     <div className="row">
                         <div className="col-md-4 text-white">
                             <h2>STUDY </h2>
-                            <p className='study-info'>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> 
-                                Repellat, fugit nihil. Fugiat illum quos <br /> corrupti dignissimos. Voluptate iusto totam maiores ad eum odit corrupti <br /> sint explicabo. Repudiandae esse totam hic.</p>
+                            <p className='study-info'>We Are Committed to you for given to best teaching Service Theurgical and Practical.</p>
+                            <div>
+                                <i class="fab fa-facebook"></i>
+                                <i className="fab fa-instagram"></i>
+                                <i className="fab fa-wikipedia-w"></i>
+                                <i className="fab fa-google-plus-g"></i>
+                                <i className="fas fa-camera-retro"></i>
+                            </div>
                         </div>
                         <div className="col-md-4 text-white">
                             <h2 className="mb-3">GET IN TOUCH</h2>
