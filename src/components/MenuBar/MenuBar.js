@@ -5,7 +5,7 @@ import './MenuBar.css'
 const MenuBar = () => {
     return (
         <>
-            <div className= 'menuBar mt-0'>
+            <div className='menuBar mt-3'>
                 <div className='container'>
                     <div className="row align-items-center w-100">
                         <div className="col-md-2">
@@ -14,13 +14,12 @@ const MenuBar = () => {
                             </div>
                         </div>
                         <div className="col-md-10">
-                            {/* <div className="menu-container "> */}
                             <ul className="d-flex align-items-end justify-content-end">
                                 <Link to="/home" className="items">
                                     <li>Home</li>
                                 </Link>
                                 <Link to="/services" className="items">
-                                    <li>Services</li>
+                                    <li>Courses</li>
                                 </Link>
                                 <Link to="/about" className="items">
                                     <li>About Us</li>
@@ -29,7 +28,6 @@ const MenuBar = () => {
                                     <li>Contact Us</li>
                                 </Link>
                             </ul>
-                            {/* </div> */}
                         </div>
                     </div>
                 </div>

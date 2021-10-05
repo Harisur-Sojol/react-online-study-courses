@@ -12,14 +12,16 @@ const Services = () => {
 
     return (
         <div>
-            <h1 className='services-full-title text-center m-4'>OUR <span className='services-half-title'>SERVICES</span></h1>
-            <h4 className='text-center text-secondary mb-5'>We also serve these course for you and we will arrange a orientation class for these courses</h4>
-            <div className="container">
+            <h1 className='services-full-title text-center m-4'>OUR <span className='services-half-title'>Courses</span></h1>
+            <p className='text-center text-secondary fs-5 fw-normal mb-5'>These courses will be conducted by more than 69 teachers.You can enroll in these courses if you want.</p>
+            <div className='services-area'>
+                <div className="container">
 
-                <div className="row g-4">
-                    {
-                        services.map(service => <Service key={service.id} service={service}></Service>)
-                    }
+                    <div className="row g-4">
+                        {
+                            services.map(service => <Service key={service.id} service={service}></Service>)
+                        }
+                    </div>
                 </div>
             </div>
         </div>

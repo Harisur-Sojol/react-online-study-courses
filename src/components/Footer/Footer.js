@@ -55,7 +55,7 @@ const Footer = () => {
                             </div>
                         </div>
                         <div className="col-md-4">
-                            <h2 style={{color: "white"}}>USEFUL LINKS</h2>
+                            <h2 style={{ color: "white" }}>USEFUL LINKS</h2>
                             <ul className="footer-useFull-links">
                                 <li>Teachers  Staff</li>
                                 <li>Our Courses</li>

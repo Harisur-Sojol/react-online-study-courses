@@ -9,11 +9,10 @@ const Course = (props) => {
                 <img className="course-img" src={image}alt="" />
                 <div className="card-body ">
                     <h4>{name}</h4>
-                    
+                    <h5 className='mt-3'><span className='prices'>Price: $ {price}</span></h5>   
                 </div>
-                <div className='d-flex d-flex align-items-center justify-content-between'>
-                    <button className='bg-dark course-btn text-white ps-3'><i class="fas fa-cart-plus"></i> Enroll Now</button>
-                    <h5><span className='prices pe-3'>$ {price}</span></h5>
+                <div className='text-center'>
+                    <button className='bg-dark course-btn text-white ps-3'>READ MORE</button>
                 </div>
             </div>
         </div>
