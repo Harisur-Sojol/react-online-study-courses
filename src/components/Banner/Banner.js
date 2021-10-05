@@ -11,9 +11,6 @@ const Banner = () => {
                         <div className="col-md-6 mt-5">
                             <h3 className='title'>Welcome To Study</h3>
                             <h1 className='title'>The Best Learning Institution</h1>
-                            <p className='title'>There are many variations of passages of Lorem Ipsum available, but the majority have
-                                suffered alteration in some form, by injected humour, or randomised words which
-                                don't look even slightly believable.</p>
                         </div>
                     </div>
                 </div>
