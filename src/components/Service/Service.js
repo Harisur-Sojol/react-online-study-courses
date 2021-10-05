@@ -13,7 +13,7 @@ const Service = (props) => {
                     <h4>{name}</h4>
                     <div className='mt-5'>
                         <div className="d-flex align-items-center justify-content-between mt-2">
-                            <button className='bg-dark service-btn text-white'><i class="fas fa-cart-plus"></i> Enroll Now</button>
+                            <button className='bg-dark service-btn text-white'><i className='' class="fas fa-cart-plus"></i> Enroll Now</button>
                             <h5><span className='prices'>$ {price}</span></h5>
                         </div>
                     </div>

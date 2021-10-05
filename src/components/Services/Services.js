@@ -13,7 +13,7 @@ const Services = () => {
     return (
         <div>
             <h1 className='services-full-title text-center m-5'>OUR <span className='services-half-title'>SERVICES</span></h1>
-            <p className='text-center text-secondary mb-4'>We have come up with some more courses for you</p>
+            <h4 className='text-center text-secondary mb-5'>We also serve these course for you and we will arrange a orientation class for these courses</h4>
             <div className="container">
 
                 <div className="row g-4">

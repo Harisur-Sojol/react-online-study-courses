@@ -1,4 +1,5 @@
 import React from 'react';
+import  aboutImage from '../../images/about.png'
 import './About.css'
 
 const About = () => {
@@ -7,6 +8,16 @@ const About = () => {
             <h1 className='text-center m-5'>About <span className='about-title'>Us</span></h1>
 
             <div className='container'>
+                <div className='row align-items-center mb-5'>
+                    <div className='col-md-5'>
+                        <img src={aboutImage} alt="" />
+                    </div>
+                    <div className='col-md-7'> 
+                        <h3>About Study</h3>
+                        <h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, architecto non voluptatibus perspiciatis consequuntur placeat laudantium. Incidunt fuga impedit assumenda!</h5>
+                        <button className='learn-now-btn'>Learn Now</button>
+                    </div>
+                </div>
                 <div className='row'>
                     <div className="col-md-7">
                         <h2>Why choose Study</h2>
@@ -23,13 +34,17 @@ const About = () => {
                 <div className="row">
                     <div className="col-md-7">
                         <h2 className='feedback-title'>Our Learners Feedback</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab odio voluptate libero eveniet nemo itaque odit, maiores, quidem sequi ratione modi magnam recusandae repellendus obcaecati. Voluptates voluptas id cupiditate ipsam?</p>
+                            <p> It's Had been a fear most experience me that I feel a great
+                                assumption that never thoughts that will happens to But
+                                great provocatives things appropities received without
+                                realmost qualifier that happen that never thoughts that will happensto a fear most
+                                experience. </p>
                     </div>
                 </div>
                 <div className="row mt-3">
                     <div className="col-md-6">
                         <p className='text-info mb-1'>MORE ABOUT COMPANY</p>
-                       
+
                     </div>
                 </div>
 
