@@ -4,7 +4,7 @@ import './ContactUs.css'
 const ContactUs = () => {
     return (
         <div>
-            <h1 className='text-center mt-5'>CONTACT <span style={{ color: 'indianred' }}>US</span></h1>
+            <h1 className='text-center mt-5'>CONTACT <span style={{ color: 'indianred' }}>WITH US</span></h1>
             <p className=' text-center mt-4 fs-5 fst-italic fw-normal'>Do You want any information and  give feedback to us Please fill the text form and click to submit.</p>
             <div className='contact-form'>
                 <div className="container">
